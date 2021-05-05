@@ -3,7 +3,8 @@
 
 I'm a Data Scientist / Machine Learning Engineer with 5+ Years of experience in the domain - Analytics, Natural Language Processing, Computer Vision, Conversational Agents
 
-[![Jupyter](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://linkedin.com/in/ishwarsawale)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://linkedin.com/in/ishwarsawale)
+[![Home](https://img.shields.io/badge/-Website-000?&logo=Website)](https://linkedin.com/in/ishwarsawale)
 ![](https://visitor-badge.glitch.me/badge?page_id=ishwarsawale)
 
 <br />
