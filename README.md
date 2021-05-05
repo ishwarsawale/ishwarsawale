@@ -1,12 +1,14 @@
-### Hi there 👋
+### Hi there , I'm ✨ [Ishwar][website] ✨  👋
 ---
 
- 🏢 I'm a Data Scientist / Machine Learning Engineer with 5+ Years of experience in the domain - Analytics, Natural Language Processing, Computer Vision, Conversational Agents
-  
-  📫 For details visit [portfolio](https://ishwarsawale.github.io/)
+I'm a Data Scientist / Machine Learning Engineer with 5+ Years of experience in the domain - Analytics, Natural Language Processing, Computer Vision, Conversational Agents
 
-### Skills
----
+[![Jupyter](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://linkedin.com/in/ishwarsawale)
+![](https://visitor-badge.glitch.me/badge?page_id=ishwarsawale)
+
+<br />
+
+Technologies I've been using so far :
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
@@ -27,3 +29,12 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+
+
+More about me 👉 [website]
+
+
+[website]: https://ishwarsawale.github.io/
+
+
