@@ -1,7 +1,7 @@
 ### Hi there , I'm ✨ [Ishwar][website] ✨  👋
 <br />
 
-I'm a Data Scientist / Machine Learning Engineer with 5+ Years of experience in the domain - Analytics, Natural Language Processing, Computer Vision, Conversational Agents
+I'm a Data Scientist / Machine Learning Engineer with 8+ Years of experience in the domain - Analytics, Natural Language Processing, Computer Vision, Conversational Agents
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://linkedin.com/in/ishwarsawale)
 [![Home](https://img.shields.io/badge/-Website-000?&logo=react)](https://ishwarsawale.github.io/)
